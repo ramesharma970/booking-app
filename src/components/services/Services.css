@@ -1,0 +1,22 @@
+#services {
+  padding: 5rem 5rem 10rem 5rem;
+}
+
+.services_detail {
+}
+
+.services_detail img {
+  height: 200px;
+  width: 200px;
+}
+.services_detail button {
+  height: 40px;
+  padding: 0 1.5rem;
+}
+
+.services_title {
+  font-size: 24px;
+}
+
+.services_description {
+}

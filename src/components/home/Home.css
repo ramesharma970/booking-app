@@ -1,0 +1,14 @@
+#home {
+  padding: 5rem 5rem 10rem 5rem;
+}
+
+.home_description {
+  margin-top: 2rem;
+}
+
+.home_button {
+  margin-top: 2rem;
+  padding: 0 1.5rem;
+  height: 40px;
+  font-weight: bold;
+}

@@ -1,0 +1,10 @@
+/* media query */
+@media (min-width: 992px) {
+  #basic-navbar-nav {
+    display: block !important;
+  }
+  .navbar-nav {
+    justify-content: space-evenly;
+    align-items: center;
+  }
+}
